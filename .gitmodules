@@ -1,0 +1,21 @@
+[submodule "awayjs-core"]
+	path = awayjs-core
+	url = https://github.com/awayjs/awayjs-core.git
+[submodule "awayjs-display"]
+	path = awayjs-display
+	url = https://github.com/awayjs/awayjs-display.git
+[submodule "awayjs-methodmaterials"]
+	path = awayjs-methodmaterials
+	url = https://github.com/awayjs/awayjs-methodmaterials.git
+[submodule "awayjs-parsers"]
+	path = awayjs-parsers
+	url = https://github.com/awayjs/awayjs-parsers.git
+[submodule "awayjs-player"]
+	path = awayjs-player
+	url = https://github.com/awayjs/awayjs-player.git
+[submodule "awayjs-renderergl"]
+	path = awayjs-renderergl
+	url = https://github.com/awayjs/awayjs-renderergl.git
+[submodule "awayjs-stagegl"]
+	path = awayjs-stagegl
+	url = https://github.com/awayjs/awayjs-stagegl.git
