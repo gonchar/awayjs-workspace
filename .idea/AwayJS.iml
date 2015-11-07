@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-core/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-display/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-display/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-methodmaterials/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-methodmaterials/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-parsers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-parsers/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-player/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-player/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-renderergl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-renderergl/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-stagegl/build" />
+      <excludeFolder url="file://$MODULE_DIR$/awayjs-stagegl/node_modules" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
